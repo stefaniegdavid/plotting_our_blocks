@@ -14,7 +14,6 @@
     margin: 5px;
     margin-bottom: 5px;
     margin-top: 10px;
-    display: flex;
     align-items: center;
     
 }
@@ -53,6 +52,5 @@
     width: 660px;
     background-color: purple;
     margin: 5px;
-    margin-top 20px;
     padding-right: 15px;
 }
